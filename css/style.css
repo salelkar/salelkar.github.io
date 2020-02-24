@@ -2,9 +2,17 @@ body {
   background-color: Azure;
   font-family: 'Open Sans', sans-serif;
   color: black;
+  font-size: 16 px;
+}
+h1 {
+  font-size: 32 px;
 }
 h2 {
-
+ font-size: 20 px;
  font-weight: 900;
 
+}
+.subtitle {
+  font-size: 8 px;
+  font-style: italic;
 }
